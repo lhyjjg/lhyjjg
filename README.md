@@ -1,8 +1,11 @@
 <div align="center">
   
-## Hello!
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=lhyjjg%20GitHub!&fontSize=90" />
 
-### ⚙️ Stacks
+### 📍 Introduce 📍
+<a href="https://www.notion.so/c5cda8161e014615acccfb37f68bdaa3"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /></a>
+
+### ⚙️ Stacks ⚙️
 <div>
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -32,7 +35,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </div>
 
-### 👩‍💻 Career
+### 👩‍💻 Career 👩‍💻
 2019.01-2023.01 : [(주)엑스트라이버](https://www.tripstore.kr/) Inside Sales <br>
 2016.08-2018.03 : [흥국산업(주)](http://hk-ind.com/) Inside Sales & Planning Dept
 
