@@ -4,7 +4,7 @@
 
 
 ### 📍 Introduce 📍
-<a href="https://www.notion.so/c5cda8161e014615acccfb37f68bdaa3"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /></a>
+<a href="https://bramble-airplane-54f.notion.site/33d47e410b7647b1b59f79a24651c13d?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /></a>
 
 
 ### ⚙️ Stacks ⚙️
