@@ -42,5 +42,9 @@
 ### 👩‍💻 Career 👩‍💻
 2019.01-2023.01 : [(주)엑스트라이버](https://www.tripstore.kr/) Inside Sales <br>
 2016.08-2018.03 : [흥국산업(주)](http://hk-ind.com/) Inside Sales & Planning Dept
+
+### 📕 Blog 📕
+[tistory](https://lvd-hy.tistory.com/)
 </div>
+
 
