@@ -2,10 +2,10 @@
   
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=lhyjjg%20GitHub!&fontSize=90" />
 
-
+<!--
 ### 📍 Introduce 📍
 <a href="https://bramble-airplane-54f.notion.site/33d47e410b7647b1b59f79a24651c13d?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /></a>
-
+-->
 
 ### ⚙️ Stacks ⚙️
 <div>
